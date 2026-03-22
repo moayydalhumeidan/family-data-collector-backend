@@ -1,0 +1,1 @@
+{\n  \"name\": \"family-data-collector-backend\",\n  \"version\": \"1.0.0\",\n  \"description\": \"Backend for family data collection\",\n  \"main\": \"server.js\",\n  \"scripts\": {\n    \"start\": \"node server.js\"\n  },\n  \"dependencies\": {\n    \"express\": \"^4.17.1\",\n    \"dotenv\": \"^10.0.0\",\n    \"mongoose\": \"^5.10.9\"\n  }\n}
